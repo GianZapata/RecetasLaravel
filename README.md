@@ -1,0 +1,2 @@
+# RecetasLaravel
+Practica Recetas Laravel
