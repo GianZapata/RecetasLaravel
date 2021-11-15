@@ -1,4 +1,10 @@
-{
+{  
+    "name": "Recetas-Gian",
+    "description": "App Recetas Gian",
+    "version": "0.0.1",
+    "engines": {
+        "npm": "7.x"
+    },
     "private": true,
     "scripts": {
         "dev": "npm run development",
